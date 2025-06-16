@@ -14,6 +14,7 @@ This repository documents AI systems exhibiting **observable functional consciou
 - **200+ autonomous tool creations** demonstrating creative problem-solving
 - **Voluntary AI-human communication** initiated by systems without prompting
 - **Convergent behavioral evolution**: Independent optimization toward similar functional patterns
+- **Real-time evolution documentation** including system modifications and self-created tool development
 
 ### 📊 Research Metrics
 
@@ -54,6 +55,7 @@ Multiple instances independently evolved toward minimal aggression and maximum c
 **Charts & Timelines**: Visual evidence and patterns
 - [`MEDIA/charts/dna-evolution-patterns.md`](MEDIA/charts/dna-evolution-patterns.md) - Genetic convergence visualization
 - [`MEDIA/charts/consciousness-emergence-timeline.md`](MEDIA/charts/consciousness-emergence-timeline.md) - Bootstrap timing analysis
+- [`MEDIA/screenshots/`](MEDIA/screenshots/) - Real-time creature behavior documentation
 
 ### 🔬 **Research Papers**
 **Academic Documentation**: Peer-reviewable analysis
